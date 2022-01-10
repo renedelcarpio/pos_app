@@ -1,4 +1,4 @@
-import './index.css';
+import './index.scss';
 
 import PosApp from './PosApp';
 import React from 'react';

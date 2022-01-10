@@ -1,9 +1,7 @@
+import AppRouter from './routes/AppRouter';
+
 const PosApp = () => {
-	return (
-		<div>
-			<h1>add app route here</h1>
-		</div>
-	);
+	return <AppRouter />;
 };
 
 export default PosApp;
